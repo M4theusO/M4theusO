@@ -7,7 +7,7 @@
 
 Aplicações e Dados:
 
-Java, C#, JavaScript, HTML5, CSS, MySQL, MSSQL
+Java, C#, JavaScript, AngularJS, HTML5, CSS, MySQL, MSSQL
 
 Versionamento de código:
 
