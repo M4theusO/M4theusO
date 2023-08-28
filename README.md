@@ -6,15 +6,12 @@
 🚀  Minhas Skills
 
 Aplicações e Dados:
-
 Java, C#, JavaScript, AngularJS, HTML5, CSS, MySQL, MSSQL
 
 Versionamento de código:
-
 Git e GitHub
 
 Ferramentas de Desenvolvimento:
-
 Visual Studio Code, Eclipse, Trello, Notion, Azure
 
 <!---
