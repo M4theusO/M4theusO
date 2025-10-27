@@ -1,12 +1,12 @@
 - 👋 Oi, me chamo Matheus de Oliveira
-- 👀 Estou interessado em desenvolver minhas habilidades em desenvolvimento web
+- 👀 Desenvolvendo minhas habilidades em desenvolvimento web e QA
 - 🌱 Desenvolvi um app mobile para realização de audiodescrição utilizando DART e FLUTTER
 - 📫 matthheus.1414@gmail.com
 
 🚀  Minhas Skills
 
 Aplicações e Dados:
-Java, C#, JavaScript, AngularJS, HTML5, CSS, MySQL, MSSQL
+C#, JavaScript, AngularJS, HTML5, CSS, MSSQL, Cypress, Postman
 
 Versionamento de código:
 Git e GitHub
