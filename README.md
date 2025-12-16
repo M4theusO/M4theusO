@@ -1,6 +1,5 @@
 - 👋 Oi, me chamo Matheus de Oliveira
 - 👀 Desenvolvendo minhas habilidades em desenvolvimento web e QA
-- 🌱 Desenvolvi um app mobile para realização de audiodescrição utilizando DART e FLUTTER
 - 📫 matthheus.1414@gmail.com
 
 🚀  Minhas Skills
@@ -12,7 +11,7 @@ Versionamento de código:
 Git e GitHub
 
 Ferramentas de Desenvolvimento:
-Visual Studio Code, Eclipse, Trello, Notion, Azure
+Visual Studio Code, Eclipse, Trello, Notion, Azure DevOps
 
 <!---
 M4theusO/M4theusO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
