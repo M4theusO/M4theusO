@@ -30,6 +30,16 @@
 ![Trello](https://img.shields.io/badge/Trello-026AA7?style=for-the-badge&logo=trello&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
+GitHub Stats ⚡
+
+<div>
+<a href="https://github.com/M4theusO">
+<div>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=M4theusO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=M4theusO&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+</div>
+
 <!---
 M4theusO/M4theusO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
