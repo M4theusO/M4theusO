@@ -32,12 +32,22 @@
 
 GitHub Stats ⚡
 
-<div>
-<a href="https://github.com/M4theusO">
-<div>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=M4theusO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=M4theusO&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+
+<h2>GitHub Stats ⚡</h2>
+
+<div align="center">
+  <a href="https://github.com/M4theusO">
+    <img
+      height="180"
+      src="https://github-stats-extended.vercel.app/api?username=M4theusO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
+      alt="GitHub Stats"
+    />
+    <img
+      height="180"
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=M4theusO&layout=compact&langs_count=7&theme=dracula"
+      alt="Linguagens mais utilizadas"
+    />
+  </a>
 </div>
 
 <!---
